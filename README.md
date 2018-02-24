@@ -23,9 +23,11 @@ them one at a time. Many test cases are provided in the code.
 The code does not handle '.' (current directory) and windows file separator ('\\').
 
 ## Solution 1
-	Use an iterative solution
+
+Use an iterative solution
 
 # Solution 2
-  this function use recursive algorithm to parse a cd path command and create 
-  the result path at each step
+
+this function use recursive algorithm to parse a cd path command and create 
+the result path at each step
 
