@@ -26,7 +26,7 @@ The code does not handle '.' (current directory) and windows file separator ('\\
 
 Use an iterative solution
 
-# Solution 2
+## Solution 2
 
 this function use recursive algorithm to parse a cd path command and create 
 the result path at each step
